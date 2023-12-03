@@ -173,7 +173,7 @@ section {
 .pic {
   display: flex;
   height: 60%;
-  width: 90%;
+  width: 330px;
   
   margin: auto 0;
 }
